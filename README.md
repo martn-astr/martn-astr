@@ -1,5 +1,5 @@
-# 🌌 Hello, I'm Martin | martn.astro
-**Astrophysicist | Astrophotography Enthusiast | Developer**
+# 🌌 Hello, I'm Martin | martn-astr
+**Astrophysics Student | Astrophotographer | Developer**
 
 <p align="center">
   <em>"Exploring the cosmos through code, data analysis, and the lens."</em>
@@ -8,33 +8,45 @@
 ---
 
 ### 🔭 What I'm Working On
-- 🪐 **Astrophysics Research:** Analyzing astronomical data, modeling celestial mechanics, and exploring stellar/galactic dynamics.
+- 🎓 **Studies:** Actively studying and expanding my knowledge in astrophysics and astronomy.
+- 🪐 **Research:** Analyzing astronomical data, modeling celestial mechanics, and exploring stellar/galactic dynamics.
 - 💻 **Computational Tools:** Building automated processing pipelines and scripts using Python and data-science libraries.
-- 📸 **Astrophotography:** Capturing deep-sky objects (nebulae, galaxies, star clusters) and processing them with tools like PixInsight and Siril.
+- 📸 **Astrophotography:** Capturing deep-sky objects and processing them with tools like PixInsight and Siril.
 
 ### 🛠️ Tech Stack & Cosmic Toolkit
-- **Languages:** Python, C
+- **Languages:** Python, C++, SQL, Bash
 - **Scientific Stack:** Astropy, NumPy, SciPy, Matplotlib, Pandas
-- **Astro & Imaging Tools:** Siril, Stellarium, ASCOM platform, PHD2 Guiding
+- **Astro & Imaging Tools:** PixInsight, Siril, Stellarium, ASCOM platform, PHD2 Guiding
 
-### 📸 Astrophotography Highlights
-*Here is a glimpse of the universe through my telescope and gear. (You can replace these links with your own uploaded images in your repo!)*
+### 📸 Latest Astrophotography 
+*My most recent captures! (Manually upload your photos to GitHub to replace these placeholders)*
 
+<!-- IG-START -->
 <div align="center">
-  <img src="https://via.placeholder.com/400x250/0b0f19/a5b4fc?text=Nebula+Capture+Here" width="48%" alt="Nebula">
-  <img src="https://via.placeholder.com/400x250/0b0f19/a5b4fc?text=Galaxy+Capture+Here" width="48%" alt="Galaxy">
+  <img src="https://placehold.co/300x300/0b0f19/a5b4fc?text=Upload+Photo+1" width="30%" alt="Capture 1">
+  <img src="https://placehold.co/300x300/0b0f19/a5b4fc?text=Upload+Photo+2" width="30%" alt="Capture 2">
+  <img src="https://placehold.co/300x300/0b0f19/a5b4fc?text=Upload+Photo+3" width="30%" alt="Capture 3">
 </div>
+<!-- IG-END -->
+
+### 🚀 NASA Astronomy Picture of the Day
+*Daily universe highlights.*
+
+<!-- APOD-START -->
+<p align="center">
+  <em>(NASA APOD automation pending setup)</em>
+</p>
+<!-- APOD-END -->
 
 ### 📊 GitHub Stats & Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martn-astr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="martn-astr's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=martn-astr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="martn-astr's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martn-astr&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=martn-astr&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 📫 Connect with Me
-- 🌐 Portfolio / Website: [Add your website link]
+- 🌐 Portfolio / Website: [Add your website link here]
 - 📸 Instagram: [@your_astro_handle](https://instagram.com)
-- 🐦 Twitter / X: [@your_handle](https://twitter.com)
