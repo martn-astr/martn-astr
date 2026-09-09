@@ -1,4 +1,4 @@
-# 🌌 Hello, I'm Martin | martn-astr
+# 🌌 Hello, I'm Martin | martn.astro
 **Astrophysicist | Astrophotography Enthusiast | Developer**
 
 <p align="center">
@@ -13,9 +13,9 @@
 - 📸 **Astrophotography:** Capturing deep-sky objects (nebulae, galaxies, star clusters) and processing them with tools like PixInsight and Siril.
 
 ### 🛠️ Tech Stack & Cosmic Toolkit
-- **Languages:** Python, C++, SQL, Bash
+- **Languages:** Python, C
 - **Scientific Stack:** Astropy, NumPy, SciPy, Matplotlib, Pandas
-- **Astro & Imaging Tools:** PixInsight, Siril, Stellarium, ASCOM platform, PHD2 Guiding
+- **Astro & Imaging Tools:** Siril, Stellarium, ASCOM platform, PHD2 Guiding
 
 ### 📸 Astrophotography Highlights
 *Here is a glimpse of the universe through my telescope and gear. (You can replace these links with your own uploaded images in your repo!)*
