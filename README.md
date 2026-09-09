@@ -40,4 +40,4 @@
 
 ### 📫 Connect with Me
 - 🌐 Portfolio / Website: [Add your website link here]
-- 📸 Instagram: [martn.astro](https://instagram.com)
+- 📸 Instagram: [@martn.astro](https://instagram.com/martn.astro)
