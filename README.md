@@ -33,9 +33,14 @@
 *Daily universe highlights.*
 
 <!-- APOD-START -->
-<p align="center">
-  <em>(NASA APOD automation pending setup)</em>
-</p>
+
+<div align="center">
+  <a href="https://apod.nasa.gov/apod/astropix.html">
+    <img src="https://apod.nasa.gov/apod/image/2609/xz_and.mp4" width="80%" alt="Witness XZ Andromedae Wink">
+  </a>
+  <p><strong>Witness XZ Andromedae Wink</strong> (2026-09-09)</p>
+</div>
+
 <!-- APOD-END -->
 
 ### 📫 Connect with Me
