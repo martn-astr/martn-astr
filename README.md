@@ -1,4 +1,4 @@
-# 🌌 Hello, I'm Martin | martn-astr
+# 🌌 Hello, I'm Martin | martn.astro
 **Astrophysics Student | Astrophotographer | Developer**
 
 <p align="center">
@@ -38,15 +38,6 @@
 </p>
 <!-- APOD-END -->
 
-### 📊 GitHub Stats & Metrics
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=martn-astr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="martn-astr's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=martn-astr&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-
 ### 📫 Connect with Me
 - 🌐 Portfolio / Website: [Add your website link here]
-- 📸 Instagram: [@your_astro_handle](https://instagram.com)
+- 📸 Instagram: [martn.astro](https://instagram.com)
