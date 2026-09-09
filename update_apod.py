@@ -3,11 +3,9 @@ import requests
 import re
 
 def update_apod():
-    # Fetch API key from GitHub Secrets
     api_key = os.environ.get("NASA_API_KEY", "DEMO_KEY")
     url = f"https://api.nasa.gov/planetary/apod?api_key={api_key}"
     
-    # Get data from NASA
     response = requests.get(url)
     if response.status_code != 200:
         print("Failed to fetch APOD")
@@ -18,29 +16,32 @@ def update_apod():
     img_url = data.get("url", "")
     date = data.get("date", "")
     
-    # Format the image for your README
-    apod_html = f"""
-<div align="center">
-  <a href="https://apod.nasa.gov/apod/astropix.html">
-    <img src="{img_url}" width="80%" alt="{title}">
+    # Check if it's a video (like YouTube) instead of an image
+    media_type = data.get("media_type", "image")
+    if media_type != "image":
+        img_url = data.get("hdurl", "https://apod.nasa.gov/apod/image/2403/M51_HubbleSchmidt_960.jpg") # Fallback image if APOD is a video
+
+    # Clean Markdown/HTML block for README
+    apod_html = f"""<div align="center">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
+    <img src="{img_url}" width="100%" alt="{title}">
   </a>
-  <p><strong>{title}</strong> ({date})</p>
-</div>
-"""
+  <p><b>{title}</b> ({date})</p>
+</div>"""
     
-    # Read your current README.md
     with open("README.md", "r", encoding="utf-8") as file:
         readme = file.read()
         
-    # Replace the placeholder text between your HTML comments
+    if "<!-- APOD-START -->" not in readme or "<!-- APOD-END -->" not in readme:
+        print("Error: APOD markers missing from README.md")
+        return
+
     readme = re.sub(
-        r'<!-- APOD-START -->.*<!-- APOD-END -->',
+        r'<!-- APOD-START -->[\s\S]*?<!-- APOD-END -->',
         f'<!-- APOD-START -->\n{apod_html}\n<!-- APOD-END -->',
-        readme,
-        flags=re.DOTALL
+        readme
     )
     
-    # Save the updated README.md
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(readme)
 
