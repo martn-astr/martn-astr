@@ -1,0 +1,34 @@
+name: Update NASA APOD
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Runs automatically every day at 12:00 UTC
+  workflow_dispatch: # Allows you to trigger it manually by clicking a button
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: pip install requests
+        
+      - name: Fetch APOD and update README
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: python update_apod.py
+        
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Auto-update NASA APOD" || exit 0
+          git push
