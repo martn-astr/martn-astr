@@ -35,9 +35,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2403/M51_HubbleSchmidt_960.jpg" width="100%" alt="Witness XZ Andromedae Wink">
+    <img src="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg" width="100%" alt="LDN 1295: The Giraffe Nebula">
   </a>
-  <p><b>Witness XZ Andromedae Wink</b> (2026-09-09)</p>
+  <p><b>LDN 1295: The Giraffe Nebula</b> (2026-09-10)</p>
 </div>
 <!-- APOD-END -->
 
