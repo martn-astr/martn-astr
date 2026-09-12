@@ -14,9 +14,9 @@
 - 📸 **Astrophotography:** Capturing deep-sky objects and processing them with tools like PixInsight and Siril.
 
 ### 🛠️ Tech Stack & Cosmic Toolkit
-- **Languages:** Python, C++, SQL, Bash
+- **Languages:** Python, C++,
 - **Scientific Stack:** Astropy, NumPy, SciPy, Matplotlib, Pandas
-- **Astro & Imaging Tools:** PixInsight, Siril, Stellarium, ASCOM platform, PHD2 Guiding
+- **Astro & Imaging Tools:** Siril, Stellarium, ASCOM platform, PHD2 Guiding
 
 ### 📸 Latest Astrophotography 
 *My most recent captures! (Manually upload your photos to GitHub to replace these placeholders)*
