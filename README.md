@@ -35,9 +35,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg" width="100%" alt="LDN 1295: The Giraffe Nebula">
+    <img src="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg" width="100%" alt="M83: The Southern Pinwheel">
   </a>
-  <p><b>LDN 1295: The Giraffe Nebula</b> (2026-09-10)</p>
+  <p><b>M83: The Southern Pinwheel</b> (2026-09-11)</p>
 </div>
 <!-- APOD-END -->
 
