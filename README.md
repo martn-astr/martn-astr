@@ -23,9 +23,15 @@
 
 <!-- IG-START -->
 <div align="center">
-  <img src="https://placehold.co/300x300/0b0f19/a5b4fc?text=Upload+Photo+1" width="30%" alt="Capture 1">
-  <img src="https://placehold.co/300x300/0b0f19/a5b4fc?text=Upload+Photo+2" width="30%" alt="Capture 2">
-  <img src="https://placehold.co/300x300/0b0f19/a5b4fc?text=Upload+Photo+3" width="30%" alt="Capture 3">
+  <a href="https://www.instagram.com/p/DVWIIJRCPXs/?img_index=1" target="_blank">
+    <img src="images/mineralmoonwsign.jpg" width="30%" alt="Mineral Moon">
+  </a>
+  <a href="https://www.instagram.com/p/DcBBp_ciGr-/?img_index=1" target="_blank">
+    <img src="images/ngc7331wsign.jpg" width="34%" alt="NGC 7331">
+  </a>
+  <a href="https://www.instagram.com/p/DV4APmhiBC_/?img_index=1" target="_blank">
+    <img src="images/m51wsign.png" width="30%" alt="M51 Whirlpool Galaxy">
+  </a>
 </div>
 <!-- IG-END -->
 
