@@ -14,7 +14,7 @@
 - 📸 **Astrophotography:** Capturing deep-sky objects and processing them with tools like PixInsight and Siril.
 
 ### 🛠️ Tech Stack & Cosmic Toolkit
-- **Languages:** Python, C++,
+- **Languages:** Python, C,
 - **Scientific Stack:** Astropy, NumPy, SciPy, Matplotlib, Pandas
 - **Astro & Imaging Tools:** Siril, Stellarium, ASCOM platform, PHD2 Guiding
 
@@ -48,5 +48,5 @@
 <!-- APOD-END -->
 
 ### 📫 Connect with Me
-- 🌐 Portfolio / Website: it2523.sspu-opava.eu
+- 🌐 Portfolio / Website: https://it2523.sspu-opava.eu
 - 📸 Instagram: [@martn.astro](https://instagram.com/martn.astro)
