@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg" width="100%" alt="M83: The Southern Pinwheel">
+    <img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" width="100%" alt="Apollo 11: Catching Some Sun">
   </a>
-  <p><b>M83: The Southern Pinwheel</b> (2026-09-11)</p>
+  <p><b>Apollo 11: Catching Some Sun</b> (2026-09-12)</p>
 </div>
 <!-- APOD-END -->
 
