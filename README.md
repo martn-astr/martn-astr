@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" width="100%" alt="Apollo 11: Catching Some Sun">
+    <img src="https://apod.nasa.gov/apod/image/2403/M51_HubbleSchmidt_960.jpg" width="100%" alt="Comet NEOWISE Rising over the Adriatic Sea">
   </a>
-  <p><b>Apollo 11: Catching Some Sun</b> (2026-09-12)</p>
+  <p><b>Comet NEOWISE Rising over the Adriatic Sea</b> (2026-09-13)</p>
 </div>
 <!-- APOD-END -->
 
