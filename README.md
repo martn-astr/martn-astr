@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2403/M51_HubbleSchmidt_960.jpg" width="100%" alt="Comet NEOWISE Rising over the Adriatic Sea">
+    <img src="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg" width="100%" alt="Where Your Elements Came From">
   </a>
-  <p><b>Comet NEOWISE Rising over the Adriatic Sea</b> (2026-09-13)</p>
+  <p><b>Where Your Elements Came From</b> (2026-09-14)</p>
 </div>
 <!-- APOD-END -->
 
