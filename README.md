@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg" width="100%" alt="Where Your Elements Came From">
+    <img src="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg" width="100%" alt="A Daytime Eclipse: Moon Occults Venus">
   </a>
-  <p><b>Where Your Elements Came From</b> (2026-09-14)</p>
+  <p><b>A Daytime Eclipse: Moon Occults Venus</b> (2026-09-15)</p>
 </div>
 <!-- APOD-END -->
 
