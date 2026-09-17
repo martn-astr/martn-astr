@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg" width="100%" alt="A Daytime Eclipse: Moon Occults Venus">
+    <img src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" width="100%" alt="Webb's View of M64">
   </a>
-  <p><b>A Daytime Eclipse: Moon Occults Venus</b> (2026-09-15)</p>
+  <p><b>Webb's View of M64</b> (2026-09-16)</p>
 </div>
 <!-- APOD-END -->
 
