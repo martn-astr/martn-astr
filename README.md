@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" width="100%" alt="Webb's View of M64">
+    <img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" width="100%" alt="Messier 33: The Triangulum Galaxy">
   </a>
-  <p><b>Webb's View of M64</b> (2026-09-16)</p>
+  <p><b>Messier 33: The Triangulum Galaxy</b> (2026-09-18)</p>
 </div>
 <!-- APOD-END -->
 
