@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg" width="100%" alt="A Zodiacal Night">
+    <img src="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg" width="100%" alt="Analemma over the Callanish Stones">
   </a>
-  <p><b>A Zodiacal Night</b> (2026-09-19)</p>
+  <p><b>Analemma over the Callanish Stones</b> (2026-09-20)</p>
 </div>
 <!-- APOD-END -->
 
