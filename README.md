@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" width="100%" alt="Messier 33: The Triangulum Galaxy">
+    <img src="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg" width="100%" alt="A Zodiacal Night">
   </a>
-  <p><b>Messier 33: The Triangulum Galaxy</b> (2026-09-18)</p>
+  <p><b>A Zodiacal Night</b> (2026-09-19)</p>
 </div>
 <!-- APOD-END -->
 
