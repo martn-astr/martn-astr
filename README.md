@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg" width="100%" alt="Cocoon Nebula Wide Field">
+    <img src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg" width="100%" alt="Chance Triple Alignment: Plane, Space Station, Sun">
   </a>
-  <p><b>Cocoon Nebula Wide Field</b> (2026-09-21)</p>
+  <p><b>Chance Triple Alignment: Plane, Space Station, Sun</b> (2026-09-22)</p>
 </div>
 <!-- APOD-END -->
 
