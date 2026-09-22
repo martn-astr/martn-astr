@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg" width="100%" alt="Analemma over the Callanish Stones">
+    <img src="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg" width="100%" alt="Cocoon Nebula Wide Field">
   </a>
-  <p><b>Analemma over the Callanish Stones</b> (2026-09-20)</p>
+  <p><b>Cocoon Nebula Wide Field</b> (2026-09-21)</p>
 </div>
 <!-- APOD-END -->
 
