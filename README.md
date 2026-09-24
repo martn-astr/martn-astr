@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg" width="100%" alt="Chance Triple Alignment: Plane, Space Station, Sun">
+    <img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" width="100%" alt="A New Lunar Crater: McGetchin">
   </a>
-  <p><b>Chance Triple Alignment: Plane, Space Station, Sun</b> (2026-09-22)</p>
+  <p><b>A New Lunar Crater: McGetchin</b> (2026-09-23)</p>
 </div>
 <!-- APOD-END -->
 
