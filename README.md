@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" width="100%" alt="A New Lunar Crater: McGetchin">
+    <img src="https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg" width="100%" alt="Globular Cluster Omega Centauri">
   </a>
-  <p><b>A New Lunar Crater: McGetchin</b> (2026-09-23)</p>
+  <p><b>Globular Cluster Omega Centauri</b> (2026-09-25)</p>
 </div>
 <!-- APOD-END -->
 
