@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg" width="100%" alt="Globular Cluster Omega Centauri">
+    <img src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg" width="100%" alt="Mirrored Meteor and Milky Way">
   </a>
-  <p><b>Globular Cluster Omega Centauri</b> (2026-09-25)</p>
+  <p><b>Mirrored Meteor and Milky Way</b> (2026-09-26)</p>
 </div>
 <!-- APOD-END -->
 
