@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg" width="100%" alt="Mirrored Meteor and Milky Way">
+    <img src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" width="100%" alt="Andromeda before Photoshop">
   </a>
-  <p><b>Mirrored Meteor and Milky Way</b> (2026-09-26)</p>
+  <p><b>Andromeda before Photoshop</b> (2026-09-27)</p>
 </div>
 <!-- APOD-END -->
 
