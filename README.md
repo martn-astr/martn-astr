@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" width="100%" alt="Andromeda before Photoshop">
+    <img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" width="100%" alt="Cosmic Latte: The Average Color of the Universe">
   </a>
-  <p><b>Andromeda before Photoshop</b> (2026-09-27)</p>
+  <p><b>Cosmic Latte: The Average Color of the Universe</b> (2026-09-28)</p>
 </div>
 <!-- APOD-END -->
 
