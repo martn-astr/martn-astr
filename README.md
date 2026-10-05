@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" width="100%" alt="Cosmic Latte: The Average Color of the Universe">
+    <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="100%" alt="NASA Science">
   </a>
-  <p><b>Cosmic Latte: The Average Color of the Universe</b> (2026-09-28)</p>
+  <p><b>NASA Science</b> (2026-10-05)</p>
 </div>
 <!-- APOD-END -->
 
