@@ -40,10 +40,10 @@
 
 <!-- APOD-START -->
 <div align="center">
-  <a href="https://science.nasa.gov/apod/" target="_blank">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
     <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="100%" alt="NASA Science">
   </a>
-  <p><b>NASA Science</b> (2026-10-14)</p>
+  <p><b>NASA Science</b> (2026-10-18)</p>
 </div>
 <!-- APOD-END -->
 
