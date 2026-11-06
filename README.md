@@ -14,12 +14,12 @@
 - 📸 **Astrophotography:** Capturing deep-sky objects and processing them with tools like PixInsight and Siril.
 
 ### 🛠️ Tech Stack & Cosmic Toolkit
-- **Languages:** Python, C,
+- **Languages:** Python, C
 - **Scientific Stack:** Astropy, NumPy, SciPy, Matplotlib, Pandas
 - **Astro & Imaging Tools:** Siril, Stellarium, ASCOM platform, PHD2 Guiding
 
 ### 📸 Latest Astrophotography 
-*My most recent captures! *
+*My most recent captures!*
 
 <!-- IG-START -->
 <div align="center">
@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="100%" alt="NASA Science">
+    <img src="https://apod.nasa.gov/apod/image/2403/M51_HubbleSchmidt_960.jpg" width="100%" alt="NASA Astronomy Picture of the Day">
   </a>
-  <p><b>NASA Science</b> (2026-10-30)</p>
+  <p><b>Astronomy Picture of the Day</b></p>
 </div>
 <!-- APOD-END -->
 
