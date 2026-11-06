@@ -41,9 +41,9 @@
 <!-- APOD-START -->
 <div align="center">
   <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2403/M51_HubbleSchmidt_960.jpg" width="100%" alt="NASA Astronomy Picture of the Day">
+    <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="100%" alt="NASA Science">
   </a>
-  <p><b>Astronomy Picture of the Day</b></p>
+  <p><b>NASA Science</b> (2026-11-06)</p>
 </div>
 <!-- APOD-END -->
 
