@@ -11,20 +11,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-          
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-            
+
       - name: Install dependencies
         run: pip install requests
-          
+
       - name: Fetch APOD and update README
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: python update_apod.py
-          
+
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
